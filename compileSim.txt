@@ -1,0 +1,1 @@
+gcc -ansi -o runSimulations main.c runSimulations.c runOneSimulation.c

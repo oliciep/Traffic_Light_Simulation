@@ -6,7 +6,7 @@ varied increments, when the traffic light is open on that side. This project was
 
 - C based backend implementation of traffic lights system.
 - Linked list implementation for dynamic sorting of traffic.
-- Intakes multiple parameters for light probability and traffic amount.
+- Intakes multiple parameters for light probability and traffic amount. 
 - Contains writeup with tests and reasons for design choices.
 - Fully written in Vim editor in a linux terminal.
 

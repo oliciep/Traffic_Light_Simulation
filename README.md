@@ -4,7 +4,7 @@ This project is a C based traffic simulation that utilises C to simulate a junct
 varied increments, when the traffic light is open on that side. This project was written fully in the vim editor in a shell terminal.
 ## Features
 
-- C based backend implementation of traffic lights system.
+- C based backend implementation of traffic lights system. 
 - Linked list implementation for dynamic sorting of traffic. 
 - Intakes multiple parameters for light probability and traffic amount. 
 - Contains writeup with tests and reasons for design choices.

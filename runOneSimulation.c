@@ -1,7 +1,7 @@
 #include "runOneSimulation.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <time.h> 
 
 /* Data structure for the vehicle, includes iterationGenerated for calculating statistics. */
 struct vehicle {

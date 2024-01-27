@@ -5,7 +5,7 @@
 /* Code to run the runOneSimulation file */
 int runSimulations(int arrivalRateLeft, int lightPeriodLeft, int arrivalRateRight, int lightPeriodRight) {
     int i;
-    int leftTotalCars = 0;
+    int leftTotalCars = 0; 
     int rightTotalCars = 0;
     int leftTotalIterations = 0;
     int rightTotalIterations = 0;

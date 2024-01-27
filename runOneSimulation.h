@@ -1,1 +1,1 @@
-struct queueInfo runOneSimulation(int arrivalRateLeft, int lightPeriodLeft, int arrivalRateRight, int lightPeriodRight);
+struct queueInfo runOneSimulation(int arrivalRateLeft, int lightPeriodLeft, int arrivalRateRight, int lightPeriodRight); 

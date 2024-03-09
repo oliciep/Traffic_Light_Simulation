@@ -3,6 +3,6 @@
 #include "runOneSimulation.h"
 
 int main() {
-    runSimulations(40, 2, 60, 2);
+    runSimulations(70, 2, 30, 2);
     return 0;
 }
